@@ -1,8 +1,8 @@
 [
   {
-    "name": "@econome/extension1",
-    "description": "This is the first extension.",
-    "url": "https://registry.npmjs.org/@econome/extension1"
+    "name": "@econome/forge.mc",
+    "description": "A Extension That Uses Minecraft Server Checking Software.",
+    "url": "https://registry.npmjs.org/@econome/forge.mc"
   },
   {
     "name": "@econome/extension2",
