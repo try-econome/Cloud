@@ -5,8 +5,8 @@
     "url": "https://registry.npmjs.org/@econome/forge.mc"
   },
   {
-    "name": "@econome/extension2",
-    "description": "This is the second extension.",
-    "url": "https://registry.npmjs.org/@econome/extension2"
+    "name": "@econome/economemanager",
+    "description": "Econome Extensions Page Manager.",
+    "url": "https://registry.npmjs.org/@econome/economemanager"
   }
 ]
