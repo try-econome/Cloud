@@ -1,0 +1,12 @@
+[
+  {
+    "name": "@econome/extension1",
+    "description": "This is the first extension.",
+    "url": "https://registry.npmjs.org/@econome/extension1"
+  },
+  {
+    "name": "@econome/extension2",
+    "description": "This is the second extension.",
+    "url": "https://registry.npmjs.org/@econome/extension2"
+  }
+]
