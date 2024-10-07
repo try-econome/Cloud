@@ -8,5 +8,10 @@
     "name": "@econome/economemanager",
     "description": "Econome Extensions Page Manager.",
     "url": "https://registry.npmjs.org/@econome/economemanager"
+  },
+  {
+    "name": "@econome/local.notes",
+    "description": "local.notes for ecoonome extension manager.",
+    "url": "https://registry.npmjs.org/@econome/local.notes"
   }
 ]
